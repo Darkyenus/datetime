@@ -1,6 +1,7 @@
 .{
-    .name = "datetime",
-    .version = "0.0.3",
+    .name = .datetime,
+    .fingerprint = 0x93f3c6ca76f5e47f,
+    .version = "0.14.0.1",
     .paths = .{
         "build.zig",
         "build.zig.zon",
